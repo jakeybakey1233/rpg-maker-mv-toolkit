@@ -1,0 +1,21 @@
+# Python verification and regenerated fixture output
+__pycache__/
+*.pyc
+.pytest_cache/
+.tmp_demo_test/
+# Avoid accidentally publishing licensed RPG Maker runtime and game assets.
+Game.rpgproject
+rpg_core.js
+rpg_managers.js
+rpg_objects.js
+rpg_scenes.js
+rpg_sprites.js
+rpg_windows.js
+rpg_*.js
+img/
+audio/
+movies/
+# Installer's private backups
+*.portfolio.bak
+*.log
+.DS_Store
