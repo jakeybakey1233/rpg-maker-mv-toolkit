@@ -2,8 +2,6 @@
 
 Nine standalone, data-driven RPG Maker MV extensions and a **stock-asset-only** playable showcase. The source demonstrates event AI, state persistence, rendering effects, plugin APIs, runtime event orchestration, animation, and reusable item mechanics.
 
-**Original game dialogue, real-person likenesses, character sprites, commissioned/copyrighted pictures and music are not included.** All demo text and event configurations were written as neutral examples. The install script references assets *already provided by your own licensed RPG Maker MV installation*; this repository does not distribute the engine or its assets.
-
 > **Status:** JavaScript syntax, installer behavior, demo JSON shape, source privacy scans and selected plugin logic are tested automatically. The package has **not** been manually playtested inside the full, licensed RPG Maker MV editor. Please run the guided smoke test before calling a game module production-ready. Some systems mutate camera transforms; test them independently rather than stacking several simultaneously.
 
 ## Run the stock demo
